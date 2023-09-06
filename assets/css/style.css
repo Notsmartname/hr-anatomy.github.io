@@ -1441,12 +1441,12 @@
 /* NAV CONTENT */
 .footer__nav {
     position: absolute;
-    left: 625px;
+    left: 615px;
     top: 60px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    width: 507px;
+    width: 510px;
     z-index: 5;
 }
 
